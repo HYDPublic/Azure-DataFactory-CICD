@@ -5,12 +5,6 @@
 		"factoryName": {
 			"value": "azu-eus2-dev-datafactory"
 		},
-		"blob_storage_ls_connectionString": {
-			"value": ""
-		},
-		"AzureBlobStorageSinkFileStore_properties_typeProperties_fileName": {
-			"value": ""
-		},
 		"AzureBlobStorageSinkFileStore_properties_typeProperties_folderPath": {
 			"value": "@dataset().folder"
 		},
